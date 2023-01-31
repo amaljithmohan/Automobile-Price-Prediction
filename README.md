@@ -1,1 +1,1 @@
-#Created visualization plots to find the relationship between various attributes and made a ML model to predict the price of a vehicle.
+Based on these characteristics EDA is done to find correlation of price with features. Predictive analysis is done to predict the price of each model.This data set consists of three types of entities: the specification of an auto in terms of various characteristics, its assigned insurance risk rating, its normalized losses in use as compared to other cars.
